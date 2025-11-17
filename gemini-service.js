@@ -10,7 +10,7 @@ class GeminiService {
 
     getApiKey() {
         // Use integrated API key
-        return 'AIzaSyAOex7o7qN1zAM2ueLGHeO9lO79nIW-BM0';
+        return 'AIzaSyDEAgsDcuQX87A0Rsc-r2uEf1VlMGGN4-E';
     }
 
     async generateWebsiteCode(userRequest) {
